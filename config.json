@@ -1,0 +1,11 @@
+{
+    "limit": 250,
+    "user" : "cvgonzales",
+    "pwd"  : "pusipo-759",
+    "server" : {
+        "url": "moodle.uclv.edu.cu",
+        "scheme": "https",
+        "use_image": true,
+        "repo_id": 4
+    }
+}
