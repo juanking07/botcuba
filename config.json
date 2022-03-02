@@ -1,9 +1,9 @@
 {
-    "limit": 250,
-    "user" : "cvgonzalez",
-    "pwd"  : "pusipo-759",
+    "limit": 2000,
+    "user" : "Ocreagh",
+    "pwd"  : "M9lpIM76",
     "server" : {
-        "url": "moodle.uclv.edu.cu",
+        "url": "https://aulacened.uci.cu",
         "scheme": "https",
         "use_image": true,
         "repo_id": 4
