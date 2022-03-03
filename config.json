@@ -3,7 +3,7 @@
     "user" : "Ocreagh",
     "pwd"  : "M9lpIM76",
     "server" : {
-        "url": "aulacened.uci.cu",
+        "url": "eva.uci.cu",
         "scheme": "https",
         "use_image": true,
         "repo_id": 5
