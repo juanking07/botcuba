@@ -3,9 +3,9 @@
     "user" : "Ocreagh",
     "pwd"  : "M9lpIM76",
     "server" : {
-        "url": "https://aulacened.uci.cu",
+        "url": "aulacened.uci.cu",
         "scheme": "https",
         "use_image": true,
-        "repo_id": 4
+        "repo_id": 5
     }
 }
