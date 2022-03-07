@@ -1,11 +1,11 @@
 {
-    "limit": 600,
-    "user" : "Ocreagh",
-    "pwd"  : "M9lpIM76",
+    "limit": 100,
+    "user" : "juan.marquezr",
+    "pwd"  : "KADAS.356",
     "server" : {
-        "url": "eva.uci.cu",
-        "scheme": "https",
+        "url": "moodle.upr.edu.cu",
+        "scheme": "http",
         "use_image": true,
-        "repo_id": 5
+        "repo_id": 4
     }
 }
