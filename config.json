@@ -1,11 +1,11 @@
 {
-    "limit": 360,
+    "limit": 350,
     "user" : "jayala",
     "pwd"  : "damarys/1",
     "server" : {
         "url": "moodle.uclv.edu.cu",
         "scheme": "https",
         "use_image": true,
-        "repo_id": 4
+        "repo_id": 4 ,
     }
 }
