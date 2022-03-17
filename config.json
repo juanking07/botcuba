@@ -1,10 +1,10 @@
 {
-    "limit": 100,
-    "user" : "juan.marquezr",
-    "pwd"  : "KADAS.356",
+    "limit": 360,
+    "user" : "jayala",
+    "pwd"  : "damarys/1",
     "server" : {
-        "url": "moodle.upr.edu.cu",
-        "scheme": "http",
+        "url": "moodle.uclv.edu.cu",
+        "scheme": "https",
         "use_image": true,
         "repo_id": 4
     }
