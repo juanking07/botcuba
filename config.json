@@ -1,9 +1,9 @@
 {
     "limit": 600,
-    "user" : "amtoj18",
-    "pwd"  : "RiedeL26.27*",
+    "user" : "jayala",
+    "pwd"  : "damarys/1",
     "server" : {
-        "url": "aulacened.uci.cu",
+        "url": "moodle.uclv.edu.cu",
         "scheme": "https",
         "use_image": true,
         "repo_id": 5
