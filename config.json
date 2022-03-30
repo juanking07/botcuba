@@ -1,0 +1,14 @@
+{
+    "limit": 250,
+    "user" : "cvgonzales",
+    "pwd"  : "pusipo-759",
+    "server" : {
+        "url": "moodle.uclv.edu.cu",
+        "scheme": "https",
+        "use_image": true,
+        "repo_id": 4
+    }
+}
+#user el usuario entre las 2"" y la contraseña tam
+
+#aki donde dise image = true es para subir al perfil =false es para subir a archivos normal y ojo con el repo id
